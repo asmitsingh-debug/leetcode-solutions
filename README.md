@@ -53,6 +53,7 @@ Problem Name/
 | ------- |
 | [0001-two-sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
@@ -69,5 +70,6 @@ Problem Name/
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
