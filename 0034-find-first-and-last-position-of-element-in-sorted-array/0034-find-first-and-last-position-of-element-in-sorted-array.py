@@ -16,12 +16,14 @@ class Solution:
             ub=-1
             while low<=high:
                 mid=low+(high-low)//2
-                if nums[mid]<=target:
+                if nums[mid]>target:
                     ub=mid
-                    low=mid+1
-                else:
                     high=mid-1
-            return ub
+                else:
+                    low=mid+1
+            if ub == -1:
+                return len(nums) - 1
+            return ub - 1
         a=lowerbnd(nums,low,high)
         b=upperbnd(nums,low,high)
         if a == -1 or nums[a] != target:
