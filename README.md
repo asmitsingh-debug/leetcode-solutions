@@ -71,6 +71,7 @@ Problem Name/
 |  |
 | ------- |
 | [0018-4sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0018-4sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +81,8 @@ Problem Name/
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
