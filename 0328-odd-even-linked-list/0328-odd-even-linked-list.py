@@ -13,8 +13,7 @@ class Solution:
         ceven=even
         while ceven and ceven.next:
             codd.next=ceven.next
-            if ceven.next:
-                ceven.next=ceven.next.next
+            ceven.next=ceven.next.next
             codd=codd.next
             ceven=ceven.next
         codd.next=even
