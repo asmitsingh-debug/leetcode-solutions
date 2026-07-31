@@ -70,6 +70,7 @@ Problem Name/
 |  |
 | ------- |
 | [0018-4sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -95,6 +96,7 @@ Problem Name/
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
