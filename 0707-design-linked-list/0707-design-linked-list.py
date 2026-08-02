@@ -8,18 +8,16 @@ class MyLinkedList:
         self.head=None
 
     def get(self, index: int) -> int:
-        if self.head is None:
-            return -1
-        count=0
-        curr=self.head
+        curr = self.head
+        count = 0
+
         while curr:
-            if count==index:
+            if count == index:
                 return curr.val
-                break
-            count+=1
-            curr=curr.next
-        else:
-            return -1
+            curr = curr.next
+            count += 1
+
+        return -1
 
     def addAtHead(self, val: int) -> None:
         new_nd=Node(val)
