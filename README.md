@@ -135,4 +135,8 @@ Problem Name/
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0707-design-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
