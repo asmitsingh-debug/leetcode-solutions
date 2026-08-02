@@ -30,16 +30,17 @@ class MyLinkedList:
             self.head=temp
         return temp
     def addAtTail(self, val: int) -> None:
-        new_nd=Node(val)
+        new = Node(val)
+
         if self.head is None:
-            self.head = new_nd
+            self.head = new
             return
-        else:
-            curr=self.head 
-            while curr.next is not None:
-                curr=curr.next
-            curr.next=new_nd
-            return self.head
+
+        curr = self.head
+        while curr.next:
+            curr = curr.next
+
+        curr.next = new
 
     def addAtIndex(self, index: int, val: int) -> None:
         if index==0:
