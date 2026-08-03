@@ -141,4 +141,8 @@ Problem Name/
 | ------- |
 | [0136-single-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
