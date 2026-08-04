@@ -58,6 +58,7 @@ Problem Name/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -164,6 +165,7 @@ Problem Name/
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
