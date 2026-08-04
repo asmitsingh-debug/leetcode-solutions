@@ -150,4 +150,20 @@ Problem Name/
 | [0178-rank-scores](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
