@@ -161,6 +161,7 @@ Problem Name/
 | [0196-delete-duplicate-emails](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## String
 |  |
