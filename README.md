@@ -64,6 +64,7 @@ Problem Name/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0605-can-place-flowers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,4 +209,8 @@ Problem Name/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
