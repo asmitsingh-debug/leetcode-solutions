@@ -59,6 +59,7 @@ Problem Name/
 | [0035-search-insert-position](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -220,6 +221,7 @@ Problem Name/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -240,4 +242,8 @@ Problem Name/
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
