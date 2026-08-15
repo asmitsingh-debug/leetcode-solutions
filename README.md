@@ -64,6 +64,7 @@ Problem Name/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ Problem Name/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,4 +233,8 @@ Problem Name/
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
