@@ -52,6 +52,7 @@ Problem Name/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -79,6 +80,7 @@ Problem Name/
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -89,6 +91,7 @@ Problem Name/
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0018-4sum) |
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [3536-maximum-product-of-two-digits](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
