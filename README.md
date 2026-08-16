@@ -124,10 +124,12 @@ Problem Name/
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Problem Name/
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -249,4 +252,12 @@ Problem Name/
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
