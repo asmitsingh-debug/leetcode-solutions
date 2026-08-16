@@ -76,6 +76,7 @@ Problem Name/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@ Problem Name/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -107,6 +109,7 @@ Problem Name/
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
@@ -260,4 +263,8 @@ Problem Name/
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
