@@ -66,6 +66,7 @@ Problem Name/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0334-increasing-triplet-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
@@ -250,6 +251,7 @@ Problem Name/
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
@@ -271,4 +273,8 @@ Problem Name/
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
