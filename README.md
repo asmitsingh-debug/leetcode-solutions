@@ -79,6 +79,7 @@ Problem Name/
 | [0142-linked-list-cycle-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -233,6 +234,7 @@ Problem Name/
 | [0008-string-to-integer-atoi](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1143-longest-common-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -290,4 +292,8 @@ Problem Name/
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
