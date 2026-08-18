@@ -77,6 +77,7 @@ Problem Name/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -119,6 +120,7 @@ Problem Name/
 | [0083-remove-duplicates-from-sorted-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
@@ -159,6 +161,7 @@ Problem Name/
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Bit Manipulation
 |  |
@@ -283,4 +286,8 @@ Problem Name/
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
