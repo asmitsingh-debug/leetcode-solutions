@@ -72,6 +72,7 @@ Problem Name/
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ Problem Name/
 | ------- |
 | [0016-3sum-closest](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0018-4sum) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [3536-maximum-product-of-two-digits](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
