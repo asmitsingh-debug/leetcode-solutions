@@ -64,6 +64,7 @@ Problem Name/
 | [0053-maximum-subarray](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -252,6 +253,7 @@ Problem Name/
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [1143-longest-common-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
