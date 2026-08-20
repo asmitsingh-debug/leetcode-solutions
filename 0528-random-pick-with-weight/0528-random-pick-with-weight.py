@@ -11,13 +11,17 @@ class Solution:
 
         self.total = total
     def pickIndex(self) -> int:
-        total=sum(self.w)
         r_num=random.random()
-        ind=r_num*total
-        for i in range(0,len(self.prefix)):
-            if ind<=self.prefix[i]:
-                return i
-
+        ind=r_num*self.total
+        low=0
+        high=len(self.prefix)-1
+        while low<high:
+            mid=low+(high-low)//2
+            if ind>self.prefix[mid]:
+                low=mid+1
+            else:
+                high=mid
+        return low
 
 # Your Solution object will be instantiated and called as such:
 # obj = Solution(w)
