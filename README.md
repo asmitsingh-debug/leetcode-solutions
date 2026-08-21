@@ -146,12 +146,14 @@ Problem Name/
 | ------- |
 | [0101-symmetric-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -163,6 +165,7 @@ Problem Name/
 | ------- |
 | [0101-symmetric-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Recursion
 |  |
@@ -317,4 +320,8 @@ Problem Name/
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
