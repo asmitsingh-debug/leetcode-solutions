@@ -72,6 +72,7 @@ Problem Name/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0528-random-pick-with-weight](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
@@ -88,6 +89,7 @@ Problem Name/
 | [0141-linked-list-cycle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +116,7 @@ Problem Name/
 | [0016-3sum-closest](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0169-majority-element) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [3536-maximum-product-of-two-digits](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -295,6 +298,7 @@ Problem Name/
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -331,4 +335,12 @@ Problem Name/
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
