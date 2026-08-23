@@ -77,6 +77,7 @@ Problem Name/
 | [0216-combination-sum-iii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0528-random-pick-with-weight](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -93,6 +94,7 @@ Problem Name/
 | [0146-lru-cache](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -139,6 +141,7 @@ Problem Name/
 | ------- |
 | [0066-plus-one](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0528-random-pick-with-weight](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [3536-maximum-product-of-two-digits](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
@@ -193,6 +196,7 @@ Problem Name/
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0707-design-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Bit Manipulation
 |  |
@@ -335,6 +339,7 @@ Problem Name/
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0528-random-pick-with-weight](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 ## DP on Trees
 |  |
