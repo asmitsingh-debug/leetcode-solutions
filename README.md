@@ -75,6 +75,7 @@ Problem Name/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -300,6 +301,7 @@ Problem Name/
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0528-random-pick-with-weight](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0724-find-pivot-index) |
