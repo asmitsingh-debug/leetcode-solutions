@@ -86,6 +86,7 @@ Problem Name/
 | [0724-find-pivot-index](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Problem Name/
 | [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Problem Name/
 | [0234-palindrome-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +131,7 @@ Problem Name/
 | [0274-h-index](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0274-h-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
