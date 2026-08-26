@@ -116,6 +116,7 @@ Problem Name/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0443-string-compression](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -273,6 +274,7 @@ Problem Name/
 | [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0443-string-compression) |
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1143-longest-common-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
