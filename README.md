@@ -80,6 +80,7 @@ Problem Name/
 | [0274-h-index](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0414-third-maximum-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0528-random-pick-with-weight](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -129,6 +130,7 @@ Problem Name/
 | [0088-merge-sorted-array](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
