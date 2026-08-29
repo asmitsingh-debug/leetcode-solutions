@@ -85,6 +85,7 @@ Problem Name/
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -206,6 +207,7 @@ Problem Name/
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
@@ -384,5 +386,6 @@ Problem Name/
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
