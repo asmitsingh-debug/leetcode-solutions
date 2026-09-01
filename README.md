@@ -264,6 +264,7 @@ Problem Name/
 | [1158-market-analysis-i](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
+| [1179-reformat-department-table](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1179-reformat-department-table) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1251-average-selling-price) |
