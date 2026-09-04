@@ -91,6 +91,7 @@ Problem Name/
 | [1679-max-number-of-k-sum-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -346,6 +347,7 @@ Problem Name/
 | [0528-random-pick-with-weight](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [3903-smallest-stable-index-i](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
