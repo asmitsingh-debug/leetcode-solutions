@@ -303,6 +303,7 @@ Problem Name/
 | [1978-employees-whose-manager-left-the-company](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3220-odd-and-even-transactions) |
+| [3421-find-students-who-improved](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3421-find-students-who-improved) |
 ## String
 |  |
 | ------- |
