@@ -90,6 +90,7 @@ Problem Name/
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Problem Name/
 | [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0528-random-pick-with-weight](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [3536-maximum-product-of-two-digits](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Linked List
 |  |
 | ------- |
