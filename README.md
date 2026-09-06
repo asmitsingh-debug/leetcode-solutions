@@ -155,6 +155,7 @@ Problem Name/
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -164,6 +165,7 @@ Problem Name/
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -204,6 +206,7 @@ Problem Name/
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
