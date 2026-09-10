@@ -217,6 +217,7 @@ Problem Name/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Design
@@ -321,6 +322,7 @@ Problem Name/
 | [0003-longest-substring-without-repeating-characters](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -347,6 +349,7 @@ Problem Name/
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Greedy
 |  |
