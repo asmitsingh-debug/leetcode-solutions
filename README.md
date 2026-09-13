@@ -161,6 +161,7 @@ Problem Name/
 | ------- |
 | [0002-add-two-numbers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0528-random-pick-with-weight](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
@@ -233,6 +234,7 @@ Problem Name/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -329,6 +331,7 @@ Problem Name/
 | [0020-valid-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0443-string-compression) |
@@ -437,6 +440,7 @@ Problem Name/
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Z Algorithm
