@@ -165,6 +165,7 @@ Problem Name/
 | [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0528-random-pick-with-weight](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
+| [0836-rectangle-overlap](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3536-maximum-product-of-two-digits](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -459,4 +460,8 @@ Problem Name/
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
