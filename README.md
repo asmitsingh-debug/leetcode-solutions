@@ -190,6 +190,7 @@ Problem Name/
 | ------- |
 | [0101-symmetric-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -197,6 +198,7 @@ Problem Name/
 | ------- |
 | [0101-symmetric-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -204,11 +206,13 @@ Problem Name/
 | ------- |
 | [0101-symmetric-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Recursion
