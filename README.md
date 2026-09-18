@@ -99,6 +99,7 @@ Problem Name/
 | ------- |
 | [0001-two-sum](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -160,6 +161,7 @@ Problem Name/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0202-happy-number) |
@@ -337,6 +339,7 @@ Problem Name/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0022-generate-parentheses) |
