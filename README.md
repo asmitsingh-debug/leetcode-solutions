@@ -110,6 +110,7 @@ Problem Name/
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2352-equal-row-and-column-pairs](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -351,6 +352,7 @@ Problem Name/
 | [0937-reorder-data-in-log-files](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1143-longest-common-subsequence](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/asmitsingh-debug/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
